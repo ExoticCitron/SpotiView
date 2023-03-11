@@ -3,7 +3,7 @@ View the current song you're playing on spotify via console, if any
 
 -------
 Setting it up is pretty simple:
- - Fill out your spotify access token by visiting: [https://developer.spotify.com/console/player/](https://developer.spotify.com/console/get-user-player/) and clicking 'GET TOKEN', sign in the copy your token and paste it.
+ - Fill out your spotify access token by visiting [here](https://developer.spotify.com/console/get-user-player/) and clicking 'GET TOKEN', sign in the copy your token and paste it.
  - Fill it out on the `SPOTIFY_ACCESS_TOKEN = ''` field on the main file, be careful to not show this to anyone else.
  - Your token is valuable as with any other api key, use it carefully.
 
